@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/otd-banner-readme-1280x400.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/otd-banner-readme-ivory-1280x400.png">
-  <img alt="One Thousand Drones — one mind, many machines." src="assets/otd-banner-readme-1280x400.png">
-</picture>
+<img alt="One Thousand Drones — one mind, many machines." src="assets/otd-banner-readme-1280x400.png" width="100%">
 
 # One Thousand Drones
 
