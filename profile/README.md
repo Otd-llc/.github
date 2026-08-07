@@ -10,11 +10,7 @@ Our open education arm, the Academy, teaches the hardware and brain-computer-int
 
 ### Hex Cluster
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hex-cluster-loop.webp">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hex-cluster-loop-ivory.webp">
-  <img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720">
-</picture>
+<img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720">
 
 Printable carrier tiles that dovetail on all six edges, so a tiled layout behaves as one rigid body. The boards we test sit in them. The geometry is a free download.
 
