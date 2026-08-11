@@ -17,6 +17,15 @@ Printable carrier tiles that dovetail on all six edges, so a tiled layout behave
 - **Files and print spec** · [academy.onethousanddrones.com/hex](https://academy.onethousanddrones.com/hex) · CC BY 4.0, one zip, no account
 - **Configurator** · [demo.onethousanddrones.com/hex](https://demo.onethousanddrones.com/hex) · lay out a cluster in the browser and export only the parts it needs
 
+### Academy
+
+<img alt="Gerber layers collapse into a finished ESP32-S3 board, an exam is answered, and a certificate is issued." src="assets/academy-l101-loop.webp" width="720">
+
+Twenty-two projects from your first ESP32 board to an EEG BCI that commands your own swarm. You draw the schematic, lay out the board, and run the checks. L1.01 is free.
+
+- **Start here** · [academy.onethousanddrones.com/beta](https://academy.onethousanddrones.com/beta) · eight gated cards, a final exam, and a board you drew
+- **Reference library** · [academy.onethousanddrones.com/library](https://academy.onethousanddrones.com/library) · 69 lessons, free, no account
+
 ### Explore
 
 - **Company** · [onethousanddrones.com](https://onethousanddrones.com)
