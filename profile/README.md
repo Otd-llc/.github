@@ -10,12 +10,14 @@ Our open education arm, the Academy, teaches the hardware and brain-computer-int
 
 ### Hex Cluster
 
-<img alt="Three hex tiles: a carrier tray opens, two neighbouring tiles engage, and edge caps go on." src="assets/hex-cluster-loop.webp" width="720">
+<!-- TODO(8.1 art): the v2 still or loop belongs here. Confirm assets/hex-cluster-loop.webp shows v2 geometry, or replace it; then check the alt text against the final frames. -->
+<img alt="The Hex Cluster configurator in plan view: a ghost part lights on one cell, the choice moves to another, the part drops into place and the cluster builds up." src="assets/hex-cluster-loop.webp" width="720">
 
-Printable carrier tiles that dovetail on all six edges, so a tiled layout behaves as one rigid body. The boards we test sit in them. The geometry is a free download.
+<!-- OWNER-REVIEW: the paragraph and the two link lines below are the v2 draft, reusing the academy /hex draft's wording. The configurator link, hex.onethousanddrones.com, is decision 1.10 and must be live before this is pushed (10.6). -->
+A bench mounting standard you print yourself. Every base carries a dovetail on all six edges, so a layout of any size locks together and moves as one piece. The geometry is a free download.
 
 - **Files and print spec** · [academy.onethousanddrones.com/hex](https://academy.onethousanddrones.com/hex) · CC BY 4.0, one zip, no account
-- **Configurator** · [demo.onethousanddrones.com/hex](https://demo.onethousanddrones.com/hex) · lay out a cluster in the browser and export only the parts it needs
+- **Configurator** · [hex.onethousanddrones.com](https://hex.onethousanddrones.com) · plan a layout in the browser and download only the parts it needs
 
 ### Academy
 
