@@ -1,4 +1,4 @@
-<img alt="One Thousand Drones · one mind, many machines." src="assets/otd-banner-readme-1280x400.png" width="100%">
+<img alt="One Thousand Drones programs in motion, each over its mark: the Aplomado drone fleet, a Hex Cluster build assembling, and the L1.01 board's Gerber layers. Aplomado, Hex Cluster, OTD Academy." src="assets/otd-banner-programs-1280x400.webp" width="100%">
 
 # One Thousand Drones
 
